@@ -1,0 +1,149 @@
+course = "mooc-java-programming-i"
+
+[exercises."part01-Part01_01.Sandbox"]
+id = 83113
+checksum = "f66cdecdd391c8f585fc23317dca5e3f"
+
+[exercises."part01-Part01_02.AdaLovelace"]
+id = 83114
+checksum = "9d9545c2c86b00f490fa94a7f274d9b9"
+
+[exercises."part01-Part01_03.OnceUponATime"]
+id = 83115
+checksum = "9567e7736b4a84288472281436d3f30f"
+
+[exercises."part01-Part01_04.Dinosaur"]
+id = 83116
+checksum = "63f9914930ea768de1c7430deee85cde"
+
+[exercises."part01-Part01_05.Message"]
+id = 83117
+checksum = "fa0e6f665178b102308d3990b3cfd954"
+
+[exercises."part01-Part01_06.HiAdaLovelace"]
+id = 83118
+checksum = "98b92531656d4dbd3d7f69df2be9e919"
+
+[exercises."part01-Part01_07.MessageThreeTimes"]
+id = 83119
+checksum = "009e311c868e405d590499f506097752"
+
+[exercises."part01-Part01_08.Greeting"]
+id = 83120
+checksum = "f43e4b7f10c27dbcddc6a97fb0494bcb"
+
+[exercises."part01-Part01_09.Conversation"]
+id = 83121
+checksum = "e2b67ce48be85bbeb671f6acef545411"
+
+[exercises."part01-Part01_10.Story"]
+id = 83122
+checksum = "5fa02fc562157cabf8fe3ae20c1f8c06"
+
+[exercises."part01-Part01_11.VariousVariables"]
+id = 83123
+checksum = "8b93dbfbe86b29db09ba1452a0f0624a"
+
+[exercises."part01-Part01_12.IntegerInput"]
+id = 83124
+checksum = "48d027b6770bc53eead281b596162824"
+
+[exercises."part01-Part01_13.DoubleInput"]
+id = 83125
+checksum = "490f11b1e2243637ffc7c5d0428a4e95"
+
+[exercises."part01-Part01_14.BooleanInput"]
+id = 83126
+checksum = "e3ec419482db540ac31874f192a927b9"
+
+[exercises."part01-Part01_15.DifferentTypesOfInput"]
+id = 83127
+checksum = "fe935bda7a23ab85d611dbd6022982f8"
+
+[exercises."part01-Part01_16.SecondsInADay"]
+id = 83128
+checksum = "0b9a2938bf3664cf49bcca33f0b3b657"
+
+[exercises."part01-Part01_17.SumOfTwoNumbers"]
+id = 83129
+checksum = "3b4f81e95e4eb17757be48862b12de08"
+
+[exercises."part01-Part01_18.SumOfThreeNumbers"]
+id = 83130
+checksum = "a9aaa962c9e4d9308d414b39c49fe8dd"
+
+[exercises."part01-Part01_19.AdditionFormula"]
+id = 83131
+checksum = "5486b256fb6ee0755eb7372e3653ebaf"
+
+[exercises."part01-Part01_20.MultiplicationFormula"]
+id = 83132
+checksum = "ab8cb8d7b8afb5a53e73b659c2ebab35"
+
+[exercises."part01-Part01_21.AverageOfTwoNumbers"]
+id = 83133
+checksum = "fefb5cf61572c964b8c3b694c66ce3bd"
+
+[exercises."part01-Part01_22.AverageOfThreeNumbers"]
+id = 83134
+checksum = "37572e65307fd4dd9b2fd04e5b6c085f"
+
+[exercises."part01-Part01_23.SimpleCalculator"]
+id = 83135
+checksum = "2dca1880dde20c4305ddf3a7a87f2e3a"
+
+[exercises."part01-Part01_24.SpeedingTicket"]
+id = 83136
+checksum = "8f84a3c655baef79b646c07930bbd978"
+
+[exercises."part01-Part01_25.CheckYourIndentation"]
+id = 83137
+checksum = "095e381b011b3ca07ca1e53bb30cbca9"
+
+[exercises."part01-Part01_26.Orwell"]
+id = 83138
+checksum = "7bffad77c1bed367fc80c3fabf021f2b"
+
+[exercises."part01-Part01_27.Ancient"]
+id = 83139
+checksum = "de4323a595f6914ed5c6011196445767"
+
+[exercises."part01-Part01_28.Positivity"]
+id = 83140
+checksum = "e0d65ee87ee04ccf49601ad20c7f3b13"
+
+[exercises."part01-Part01_29.Adulthood"]
+id = 83141
+checksum = "30ebea54baf3fffd3a0f2d58c659e8be"
+
+[exercises."part01-Part01_30.LargerThanOrEqualTo"]
+id = 83142
+checksum = "a740062f4a903dd0b4b963e959ebf440"
+
+[exercises."part01-Part01_31.GradesAndPoints"]
+id = 83143
+checksum = "f258e24ff4575ba11a3a92c8ceaffd33"
+
+[exercises."part01-Part01_32.OddOrEven"]
+id = 83144
+checksum = "69e8b3ca07f8e0a85775e00f9575b81c"
+
+[exercises."part01-Part01_33.Password"]
+id = 83145
+checksum = "9ad49c19b3931986d76908cd536576c2"
+
+[exercises."part01-Part01_34.Same"]
+id = 83146
+checksum = "7a0348a3b7ebe19b7ae8be1ce0798673"
+
+[exercises."part01-Part01_35.CheckingTheAge"]
+id = 83147
+checksum = "e5bfc89c434cd1293fc0b343cbdcd5a6"
+
+[exercises."part01-Part01_36.LeapYear"]
+id = 83148
+checksum = "2624eaf5db3a7cf6b826e324df71967e"
+
+[exercises."part01-Part01_37.GiftTax"]
+id = 83149
+checksum = "f2d3ce4e84a51ed69d7e991b2deb376c"
