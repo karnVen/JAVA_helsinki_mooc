@@ -1,12 +1,16 @@
+import java.lang.*;
+import java.util.*;
 
-import java.util.Scanner;
+class BooleanInput{
 
-public class BooleanInput {
+public static void main(String args []){
+    Scanner scanner = new Scanner(System.in);
+    System.out.println("Write something: ");
 
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+    boolean boo= Boolean.valueOf(scanner.nextLine());
 
-        // write your program here
+    System.out.println("True or false? "+ boo);
 
-    }
+
+}
 }
