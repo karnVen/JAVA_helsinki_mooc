@@ -20,10 +20,15 @@ public class StarSign {
 
     public static void printStars(int number) {
         // first part of the exercise
+        for (int i =1;i<=number;i++){
+            System.out.print("*");
+        }
+        System.out.println("");
     }
 
     public static void printSquare(int size) {
         // second part of the exercise
+        printStars()
     }
 
     public static void printRectangle(int width, int height) {
